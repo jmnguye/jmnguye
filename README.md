@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python coding
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me? Send me a message with git
-- gpg [B37ED85EE93CE6AFBE1AA35B47396ED415566846](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9977E4C12BC4F08C8D0DB477D4D20363F889AB)
+- gpg [CA9977E4C12BC4F08C8D0DB477D4D20363F889AB](https://keys.openpgp.org/vks/v1/by-fingerprint/CA9977E4C12BC4F08C8D0DB477D4D20363F889AB)
 
 <!---
 jmnguye/jmnguye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
